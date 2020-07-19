@@ -90,7 +90,8 @@ class Homepage extends StatelessWidget {
                     ],
                   ),
                 )),
-            Container(child: Text('Developer Container'),)
+            Container(child: Text('Developer Container'),),
+            Container(child: Text('Added Authentication'),)
           ],
         ),
       ),
